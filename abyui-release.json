@@ -2,32 +2,32 @@
   "client": {
     "electron": "2.0.5",
     "app": {
-      "version": "1.0.0",
+      "version": "1.0.1",
       "urls": [
-        "https://gitlab.com/aby-ui/repo-release/raw/0ead4e5e298dc41c7344faa71af57e13f96147c5/app.asar.gz",
-        "https://gitlab.com/aby-ui/repo-release/raw/0ead4e5e298dc41c7344faa71af57e13f96147c5/app.asar.gz",
+        "https://glcdn.githack.com/aby-ui2/repo-release/raw/0ead4e5e298dc41c7344faa71af57e13f96147c5/app.asar.gz",
+        "https://glcdn.githack.com/aby-ui2/repo-release/raw/0ead4e5e298dc41c7344faa71af57e13f96147c5/app.asar.gz",
         "https://rawcdn.githack.com/aby-ui/repo-release/0ead4e5e298dc41c7344faa71af57e13f96147c5/app.asar.gz",
         "https://rawcdn.githack.com/aby-ui/repo-release/0ead4e5e298dc41c7344faa71af57e13f96147c5/app.asar.gz",
-        "https://rawcdn.githack.com/aby-ui/repo-release/0ead4e5e298dc41c7344faa71af57e13f96147c5/app.asar.gz",
+        "https://bbcdn.githack.com/aby-ui/repo-release/raw/0ead4e5e298dc41c7344faa71af57e13f96147c5/app.asar.gz",
         "https://raw.githubusercontent.com/aby-ui/repo-release/0ead4e5e298dc41c7344faa71af57e13f96147c5/app.asar.gz"
       ]
     },
     "lib": {
       "version": "1.0.0",
       "urls": [
-        "https://gitlab.com/aby-ui/repo-release/raw/0ead4e5e298dc41c7344faa71af57e13f96147c5/lib.asar.gz",
-        "https://gitlab.com/aby-ui/repo-release/raw/0ead4e5e298dc41c7344faa71af57e13f96147c5/lib.asar.gz",
+        "https://glcdn.githack.com/aby-ui2/repo-release/raw/0ead4e5e298dc41c7344faa71af57e13f96147c5/lib.asar.gz",
+        "https://glcdn.githack.com/aby-ui2/repo-release/raw/0ead4e5e298dc41c7344faa71af57e13f96147c5/lib.asar.gz",
         "https://rawcdn.githack.com/aby-ui/repo-release/0ead4e5e298dc41c7344faa71af57e13f96147c5/lib.asar.gz",
         "https://rawcdn.githack.com/aby-ui/repo-release/0ead4e5e298dc41c7344faa71af57e13f96147c5/lib.asar.gz",
-        "https://rawcdn.githack.com/aby-ui/repo-release/0ead4e5e298dc41c7344faa71af57e13f96147c5/lib.asar.gz",
+        "https://bbcdn.githack.com/aby-ui/repo-release/raw/0ead4e5e298dc41c7344faa71af57e13f96147c5/lib.asar.gz",
         "https://raw.githubusercontent.com/aby-ui/repo-release/0ead4e5e298dc41c7344faa71af57e13f96147c5/lib.asar.gz"
       ]
     }
   },
   "repos": {
     "repo-base": {
-      "hash": "781a1466da37646a4adab42a462830cc16a3eb0d",
-      "date": "20180724_0212",
+      "hash": "87062495f2cc0f6da436b48ef9e35473f7f1cdab",
+      "date": "20180725_0653",
       "dirs": [
         "!!!163UI!!!",
         "!!!Libs",
@@ -51,6 +51,7 @@
         "Bagnon",
         "Bagnon_Config",
         "Bagnon_GuildBank",
+        "Bagnon_VoidStorage",
         "BattlegroundTargets",
         "BaudAuction",
         "BGDefender",
@@ -336,7 +337,6 @@
     "Q-genius",
     "WhistleMaster",
     "RaidAlerter",
-    "Bagnon_VoidStorage",
     "RelicInspector",
     "DBM-Azeroth"
   ]
