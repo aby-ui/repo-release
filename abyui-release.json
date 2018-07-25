@@ -26,8 +26,8 @@
   },
   "repos": {
     "repo-base": {
-      "hash": "87062495f2cc0f6da436b48ef9e35473f7f1cdab",
-      "date": "20180725_0653",
+      "hash": "2f8759caff1b77465ebfef86f79f6c6271e1f529",
+      "date": "20180726_0042",
       "dirs": [
         "!!!163UI!!!",
         "!!!Libs",
@@ -68,6 +68,8 @@
         "CastDelayBar",
         "ChatFilter",
         "ChocolateBar",
+        "Combuctor",
+        "Combuctor_Config",
         "Comergy_Redux",
         "Comergy_Redux_Options",
         "CompactRaid",
@@ -325,8 +327,6 @@
     "RaidAchievement_WoDRaids",
     "RaidAchievement_WotlkHeroics",
     "NPCMark",
-    "Combuctor",
-    "Combuctor_Config",
     "Archy",
     "!KalielsTracker",
     "!!!163UI.pics!!!",
