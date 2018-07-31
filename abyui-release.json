@@ -4,12 +4,12 @@
     "app": {
       "version": "1.0.1",
       "urls": [
-        "https://glcdn.githack.com/aby-ui2/repo-release/raw/0ead4e5e298dc41c7344faa71af57e13f96147c5/app.asar.gz",
-        "https://glcdn.githack.com/aby-ui2/repo-release/raw/0ead4e5e298dc41c7344faa71af57e13f96147c5/app.asar.gz",
-        "https://rawcdn.githack.com/aby-ui/repo-release/0ead4e5e298dc41c7344faa71af57e13f96147c5/app.asar.gz",
-        "https://rawcdn.githack.com/aby-ui/repo-release/0ead4e5e298dc41c7344faa71af57e13f96147c5/app.asar.gz",
-        "https://bbcdn.githack.com/aby-ui/repo-release/raw/0ead4e5e298dc41c7344faa71af57e13f96147c5/app.asar.gz",
-        "https://raw.githubusercontent.com/aby-ui/repo-release/0ead4e5e298dc41c7344faa71af57e13f96147c5/app.asar.gz"
+        "https://glcdn.githack.com/aby-ui2/repo-release/raw/b7d37508d28d3aff79f6536cf55dea10778441d0/app.asar.gz",
+        "https://glcdn.githack.com/aby-ui2/repo-release/raw/b7d37508d28d3aff79f6536cf55dea10778441d0/app.asar.gz",
+        "https://rawcdn.githack.com/aby-ui/repo-release/b7d37508d28d3aff79f6536cf55dea10778441d0/app.asar.gz",
+        "https://rawcdn.githack.com/aby-ui/repo-release/b7d37508d28d3aff79f6536cf55dea10778441d0/app.asar.gz",
+        "https://bbcdn.githack.com/aby-ui/repo-release/raw/b7d37508d28d3aff79f6536cf55dea10778441d0/app.asar.gz",
+        "https://raw.githubusercontent.com/aby-ui/repo-release/b7d37508d28d3aff79f6536cf55dea10778441d0/app.asar.gz"
       ]
     },
     "lib": {
