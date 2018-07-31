@@ -2,7 +2,7 @@
   "client": {
     "electron": "2.0.5",
     "app": {
-      "version": "1.0.1",
+      "version": "1.0.3",
       "urls": [
         "https://glcdn.githack.com/aby-ui2/repo-release/raw/b7d37508d28d3aff79f6536cf55dea10778441d0/app.asar.gz",
         "https://glcdn.githack.com/aby-ui2/repo-release/raw/b7d37508d28d3aff79f6536cf55dea10778441d0/app.asar.gz",
