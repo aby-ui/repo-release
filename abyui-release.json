@@ -26,8 +26,8 @@
   },
   "repos": {
     "repo-base": {
-      "hash": "66db019e4f2768b7ab471a9c1cba35a5e7b350a5",
-      "date": "20180805_2024",
+      "hash": "6f2280d0bb8bd8cd9ae9c301d3772bfb01cfe021",
+      "date": "20180805_2318",
       "dirs": [
         "!!!163UI!!!",
         "!!!Libs",
@@ -338,6 +338,7 @@
     "WhistleMaster",
     "RaidAlerter",
     "RelicInspector",
-    "DBM-Azeroth"
+    "DBM-Azeroth",
+    "LegiondarySwitch"
   ]
 }
