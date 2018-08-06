@@ -26,8 +26,8 @@
   },
   "repos": {
     "repo-base": {
-      "hash": "6f2280d0bb8bd8cd9ae9c301d3772bfb01cfe021",
-      "date": "20180805_2318",
+      "hash": "f88983ffbe0bb80d500a4a36363709cd263c93e3",
+      "date": "20180807_0109",
       "dirs": [
         "!!!163UI!!!",
         "!!!Libs",
@@ -56,6 +56,7 @@
         "BaudAuction",
         "BGDefender",
         "BigDebuffs",
+        "BlinkHealthText",
         "BlizzBuffsFacade",
         "BlizzMove",
         "Broker_Currency",
@@ -187,7 +188,6 @@
         "HHTD",
         "HPetBattleAny",
         "Kib_QuestMobs",
-        "LegiondarySwitch",
         "LiteBuff",
         "LucidNightmareHelper",
         "Mapster",
