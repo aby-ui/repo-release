@@ -26,8 +26,8 @@
   },
   "repos": {
     "repo-base": {
-      "hash": "e62c1cda434abc892981c4769f565cf20fbe500f",
-      "date": "20180813_0305",
+      "hash": "58c12c268087f8ebde0ab8fcafeaf4dd0bdf2718",
+      "date": "20180813_2317",
       "dirs": [
         "!!!163UI!!!",
         "!!!Libs",
@@ -185,6 +185,7 @@
         "GTFO",
         "HandyNotes",
         "HandyNotes_Argus",
+        "HandyNotes_BattleForAzerothTreasures",
         "HandyNotes_DraenorTreasures",
         "HandyNotes_HallowsEnd",
         "HandyNotes_LegionRaresTreasures",
