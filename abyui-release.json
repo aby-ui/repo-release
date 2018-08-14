@@ -26,14 +26,15 @@
   },
   "repos": {
     "repo-base": {
-      "hash": "c30fb9452e297d3e0cd9a87d28fd3565960cad8c",
-      "date": "20180814_0637",
+      "hash": "708dd5c4cd2b3e49aff485aa2f1d9db2810b929b",
+      "date": "20180815_0508",
       "dirs": [
         "!!!163UI!!!",
         "!!!Libs",
         "!BaudErrorFrame",
         "!KalielsTracker",
         "!tdDropDown",
+        "!WorldFlightMapLoader",
         "163UI_Buff",
         "163UI_Chat",
         "163UI_ChatHistory",
