@@ -2,21 +2,21 @@
   "client": {
     "electron": "2.0.5",
     "app": {
-      "version": "1.0.3",
+      "version": "1.0.4",
       "urls": [
-        "https://glcdn.githack.com/aby-ui2/repo-release/raw/b7d37508d28d3aff79f6536cf55dea10778441d0/app.asar.gz",
-        "https://glcdn.githack.com/aby-ui2/repo-release/raw/b7d37508d28d3aff79f6536cf55dea10778441d0/app.asar.gz",
-        "https://rawcdn.githack.com/aby-ui/repo-release/b7d37508d28d3aff79f6536cf55dea10778441d0/app.asar.gz",
-        "https://rawcdn.githack.com/aby-ui/repo-release/b7d37508d28d3aff79f6536cf55dea10778441d0/app.asar.gz",
-        "https://bbcdn.githack.com/aby-ui/repo-release/raw/b7d37508d28d3aff79f6536cf55dea10778441d0/app.asar.gz",
-        "https://raw.githubusercontent.com/aby-ui/repo-release/b7d37508d28d3aff79f6536cf55dea10778441d0/app.asar.gz"
+        "https://glcdn.githack.com/aby-ui2/repo-release/raw/ab4ffaf7e4c31354b3c69f85bbbff7221da01d4d/app.asar.gz",
+        "https://gitee.com/aby-ui2/repo-release/raw/ab4ffaf7e4c31354b3c69f85bbbff7221da01d4d/app.asar.gz",
+        "https://rawcdn.githack.com/aby-ui/repo-release/ab4ffaf7e4c31354b3c69f85bbbff7221da01d4d/app.asar.gz",
+        "https://rawcdn.githack.com/aby-ui/repo-release/ab4ffaf7e4c31354b3c69f85bbbff7221da01d4d/app.asar.gz",
+        "https://bbcdn.githack.com/aby-ui/repo-release/raw/ab4ffaf7e4c31354b3c69f85bbbff7221da01d4d/app.asar.gz",
+        "https://raw.githubusercontent.com/aby-ui/repo-release/ab4ffaf7e4c31354b3c69f85bbbff7221da01d4d/app.asar.gz"
       ]
     },
     "lib": {
       "version": "1.0.0",
       "urls": [
         "https://glcdn.githack.com/aby-ui2/repo-release/raw/0ead4e5e298dc41c7344faa71af57e13f96147c5/lib.asar.gz",
-        "https://glcdn.githack.com/aby-ui2/repo-release/raw/0ead4e5e298dc41c7344faa71af57e13f96147c5/lib.asar.gz",
+        "https://gitee.com/aby-ui2/repo-release/raw/0ead4e5e298dc41c7344faa71af57e13f96147c5/lib.asar.gz",
         "https://rawcdn.githack.com/aby-ui/repo-release/0ead4e5e298dc41c7344faa71af57e13f96147c5/lib.asar.gz",
         "https://rawcdn.githack.com/aby-ui/repo-release/0ead4e5e298dc41c7344faa71af57e13f96147c5/lib.asar.gz",
         "https://bbcdn.githack.com/aby-ui/repo-release/raw/0ead4e5e298dc41c7344faa71af57e13f96147c5/lib.asar.gz",
@@ -26,8 +26,8 @@
   },
   "repos": {
     "repo-base": {
-      "hash": "d8aa9d5612485b63afcf0ad32f070d2c28c005f6",
-      "date": "20180821_0117",
+      "hash": "d458e7f9ef369af34e1128c4ccab84cdd586926d",
+      "date": "20180822_0058",
       "dirs": [
         "!!!163UI!!!",
         "!!!Libs",
