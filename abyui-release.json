@@ -26,8 +26,8 @@
   },
   "repos": {
     "repo-base": {
-      "hash": "34e14c89abe7504287b83e5569a8f07e9946f87d",
-      "date": "20180825_1319",
+      "hash": "81ea9990655f3488737830010087c6c19c036c24",
+      "date": "20180826_0317",
       "dirs": [
         "!!!163UI!!!",
         "!!!Libs",
@@ -43,6 +43,7 @@
         "163UI_MoreOptions",
         "163UI_Plugins",
         "163UI_TeamStats",
+        "AbyBossGuide",
         "Accountant_Classic",
         "AchievementsReminder",
         "AngryKeystones",
@@ -223,6 +224,7 @@
         "OmniBar",
         "OmniCC",
         "OmniCC_Config",
+        "Paku_Totems",
         "Parrot",
         "Postal",
         "QuakeAssist",
@@ -233,6 +235,8 @@
         "Recount",
         "Rematch",
         "SavedInstances",
+        "ShadowedUF_Options",
+        "ShadowedUnitFrames",
         "SimpleRaidTargetIcons",
         "Skada",
         "SkadaExplosiveOrbs",
