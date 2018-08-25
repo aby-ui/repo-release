@@ -26,8 +26,8 @@
   },
   "repos": {
     "repo-base": {
-      "hash": "a049cc6316e8b7f940258674e222805a8842acc4",
-      "date": "20180824_0152",
+      "hash": "34e14c89abe7504287b83e5569a8f07e9946f87d",
+      "date": "20180825_1319",
       "dirs": [
         "!!!163UI!!!",
         "!!!Libs",
@@ -49,6 +49,7 @@
         "AtlasLootReverse",
         "AuctionLite",
         "AutoTurnIn",
+        "AzeriteTooltip",
         "BagBrother",
         "Bagnon",
         "Bagnon_Config",
@@ -129,6 +130,7 @@
         "DBM-VPYike",
         "DBM-WorldEvents",
         "DBM_Mods_Cataclysm",
+        "DBM_Mods_Legion",
         "DBM_Mods_MoP",
         "DBM_Mods_WoD",
         "DBM_Mods_WotLK",
@@ -144,7 +146,6 @@
         "Dominos_Roll",
         "Dresser",
         "DuowanChat",
-        "Easy_Obliterate",
         "Ellipsis",
         "Ellipsis_Options",
         "EN_UnitFrames",
@@ -198,7 +199,6 @@
         "HPetBattleAny",
         "Kib_QuestMobs",
         "LiteBuff",
-        "LucidNightmareHelper",
         "Mapster",
         "Masque",
         "Masque_Apathy",
@@ -218,7 +218,6 @@
         "MeetingStone",
         "MerchantEx",
         "Myslot",
-        "NomiCakes",
         "NPCScan",
         "oGlow",
         "OmniBar",
@@ -259,7 +258,6 @@
         "TipTacOptions",
         "TipTacTalents",
         "TomTom",
-        "TOTxp",
         "ToyPlus",
         "TradeLog",
         "TradeskillInfo",
@@ -341,6 +339,10 @@
     "RaidAlerter",
     "RelicInspector",
     "DBM-Azeroth",
+    "Easy_Obliterate",
+    "LucidNightmareHelper",
+    "NomiCakes",
+    "TOTxp",
     "LegiondarySwitch"
   ]
 }
