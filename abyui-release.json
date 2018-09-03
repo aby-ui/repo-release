@@ -26,8 +26,8 @@
   },
   "repos": {
     "repo-base": {
-      "hash": "d118745be43583fb15733068a7675bec0aa9d310",
-      "date": "20180902_2351",
+      "hash": "d47a24c8ae05e2cf287ea30a8b58e465f8035945",
+      "date": "20180903_2355",
       "dirs": [
         "!!!163UI!!!",
         "!!!Libs",
@@ -181,6 +181,7 @@
         "GridQuickHealth",
         "GridStatusEnemyTarget",
         "GridStatusRaidDebuff",
+        "GridStatusRD_BfA",
         "GridStatusRD_Legion",
         "GridStatusRD_MoP",
         "GridStatusRD_WoD",
