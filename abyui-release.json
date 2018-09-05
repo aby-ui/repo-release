@@ -4,30 +4,24 @@
     "app": {
       "version": "1.0.5",
       "urls": [
-        "https://glcdn.githack.com/aby-ui2/repo-release/raw/e57052d263f7fc22cae7946aadc1c0ff09b62e44/app.asar.gz",
-        "https://gitee.com/aby-ui2/repo-release/raw/e57052d263f7fc22cae7946aadc1c0ff09b62e44/app.asar.gz",
-        "https://rawcdn.githack.com/aby-ui/repo-release/e57052d263f7fc22cae7946aadc1c0ff09b62e44/app.asar.gz",
         "https://rawcdn.githack.com/aby-ui/repo-release/e57052d263f7fc22cae7946aadc1c0ff09b62e44/app.asar.gz",
         "https://bbcdn.githack.com/aby-ui/repo-release/raw/e57052d263f7fc22cae7946aadc1c0ff09b62e44/app.asar.gz",
-        "https://raw.githubusercontent.com/aby-ui/repo-release/e57052d263f7fc22cae7946aadc1c0ff09b62e44/app.asar.gz"
+        "https://raw.githubusercontent.com/aby-ui2/repo-release/e57052d263f7fc22cae7946aadc1c0ff09b62e44/app.asar.gz"
       ]
     },
     "lib": {
       "version": "1.0.0",
       "urls": [
-        "https://glcdn.githack.com/aby-ui2/repo-release/raw/0ead4e5e298dc41c7344faa71af57e13f96147c5/lib.asar.gz",
-        "https://gitee.com/aby-ui2/repo-release/raw/0ead4e5e298dc41c7344faa71af57e13f96147c5/lib.asar.gz",
-        "https://rawcdn.githack.com/aby-ui/repo-release/0ead4e5e298dc41c7344faa71af57e13f96147c5/lib.asar.gz",
         "https://rawcdn.githack.com/aby-ui/repo-release/0ead4e5e298dc41c7344faa71af57e13f96147c5/lib.asar.gz",
         "https://bbcdn.githack.com/aby-ui/repo-release/raw/0ead4e5e298dc41c7344faa71af57e13f96147c5/lib.asar.gz",
-        "https://raw.githubusercontent.com/aby-ui/repo-release/0ead4e5e298dc41c7344faa71af57e13f96147c5/lib.asar.gz"
+        "https://raw.githubusercontent.com/aby-ui2/repo-release/0ead4e5e298dc41c7344faa71af57e13f96147c5/lib.asar.gz"
       ]
     }
   },
   "repos": {
     "repo-base": {
-      "hash": "d47a24c8ae05e2cf287ea30a8b58e465f8035945",
-      "date": "20180903_2355",
+      "hash": "9fcdffa201bd5b5e98a71dbf0bee3229f492b064",
+      "date": "20180831_1015",
       "dirs": [
         "!!!163UI!!!",
         "!!!Libs",
@@ -181,7 +175,6 @@
         "GridQuickHealth",
         "GridStatusEnemyTarget",
         "GridStatusRaidDebuff",
-        "GridStatusRD_BfA",
         "GridStatusRD_Legion",
         "GridStatusRD_MoP",
         "GridStatusRD_WoD",
