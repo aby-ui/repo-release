@@ -1,0 +1,14 @@
+{
+  "client" : [
+    "http://abyui.cn/release/abyui-release-client.json",
+    "http://abyui.cn/release/abyui-release-client.json"
+  ],
+  "addons" : [
+    "http://abyui.cn/release/abyui-release-addons.json",
+    "http://abyui.cn/release/abyui-release-addons.json"
+  ],
+  "bulletin" : [
+    "http://abyui.cn/release/bulletin.html",
+    "http://abyui.cn/release/bulletin.html"
+  ]
+}

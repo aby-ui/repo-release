@@ -1,5 +1,5 @@
 {
-	"gits": [ "bitbucket.org/aby-ui2", "gitlab.com/aby-ui3", "gitee.com/aby-ui3", "git.coding.net/aby-ui2", "bbcdn.githack.com/aby-ui2", "glcdn.githack.com/aby-ui3" ],
+	"gits": [ "bbcdn.githack.com/aby-ui2", "glcdn.githack.com/abyui3", "bitbucket.org/aby-ui2", "gitee.com/abyui3", "git.coding.net/aby-ui2" ],
 	"repos": {
 		"repo-base": {
 			"hash": "d47a24c8ae05e2cf287ea30a8b58e465f8035945",
