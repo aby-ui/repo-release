@@ -18,8 +18,8 @@
   },
   "repos": {
     "repo-base": {
-      "hash": "c0a65c7aec5a15ee1712d5f3044eb7e57a9e03d6",
-      "date": "20180907_0408",
+      "hash": "e9458ce0f3d5ad5374a977d8990067fd2e04c78a",
+      "date": "20180908_1014",
       "dirs": [
         "!!!163UI!!!",
         "!!!Libs",
@@ -180,6 +180,7 @@
         "GridStatusTankCooldown",
         "GTFO",
         "HandyNotes",
+        "HandyNotes_Arathi",
         "HandyNotes_Argus",
         "HandyNotes_BattleForAzerothTreasures",
         "HandyNotes_DraenorTreasures",
