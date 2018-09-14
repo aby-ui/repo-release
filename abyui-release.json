@@ -18,8 +18,8 @@
   },
   "repos": {
     "repo-base": {
-      "hash": "2f3af7935dad226b423f669dfba6bff7c17c356f",
-      "date": "20180913_1640",
+      "hash": "3c75203a6d950a2902113984f76adf17e763bf7e",
+      "date": "20180914_1219",
       "dirs": [
         "!!!163UI!!!",
         "!!!Libs",
@@ -278,8 +278,7 @@
         "XLoot",
         "XLoot_Frame",
         "XLoot_Master",
-        "XLoot_Options",
-        "_NPCScan.Overlay"
+        "XLoot_Options"
       ]
     }
   },
@@ -327,6 +326,7 @@
     "RaidAchievement_WotlkHeroics",
     "NPCMark",
     "Archy",
+    "_NPCScan.Overlay",
     "!!!163UI.pics!!!",
     "!!!163UI.3dcodecmd!!!",
     "Aph",
