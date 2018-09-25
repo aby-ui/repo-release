@@ -18,8 +18,8 @@
   },
   "repos": {
     "repo-base": {
-      "hash": "c57a563670f745515ea5a2ac9e0d5a0f8aff51a7",
-      "date": "20180923_1348",
+      "hash": "545c0b593ac4cd4206545fd3510874fbcb9f9cf7",
+      "date": "20180925_1722",
       "dirs": [
         "!!!163UI!!!",
         "!!!Libs",
@@ -310,6 +310,7 @@
     "AtlasLoot_WarlordsofDraenor",
     "AtlasLoot_WorldEvents",
     "AtlasLoot_WrathoftheLichKing",
+    "AtlasLoot_BattleforAzeroth",
     "RaidAchievement",
     "RaidAchievement_CataHeroics",
     "RaidAchievement_CataRaids",
