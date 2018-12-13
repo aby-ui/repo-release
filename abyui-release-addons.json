@@ -7,8 +7,8 @@
   ],
   "repos": {
     "repo-base": {
-      "hash": "61cea9b261e23326fbc86b6dbf2c5589f98fd557",
-      "date": "20181213_1136",
+      "hash": "b3044c010857bc8f6bf2dce46ea3d1860cdbb976",
+      "date": "20181213_2042",
       "dirs": [
         "!!!163UI!!!",
         "!!!Libs",
@@ -244,6 +244,7 @@
         "TipTacItemRef",
         "TipTacOptions",
         "TipTacTalents",
+        "TomCats-DarkshoreRares",
         "TomTom",
         "ToyPlus",
         "TradeLog",
