@@ -1,8 +1,8 @@
 {
   "repos": {
     "repo-base": {
-      "hash": "0fda5fda01dd259c07c4e26224d127795e5b165b",
-      "date": "20181216_0248",
+      "hash": "8e3d4006301b37a519a41f76a469d74c36f259ca",
+      "date": "20181217_0233",
       "dirs": [
         "!!!163UI!!!",
         "!!!Libs",
@@ -167,6 +167,7 @@
         "HandyNotes_Argus",
         "HandyNotes_BattleForAzerothTreasures",
         "HandyNotes_DraenorTreasures",
+        "HandyNotes_DungeonLocations",
         "HandyNotes_HallowsEnd",
         "HandyNotes_LegionRaresTreasures",
         "HandyNotes_LunarFestival",
