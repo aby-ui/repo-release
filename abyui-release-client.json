@@ -1,11 +1,12 @@
 {
 	"electron": "2.0.5",
 	"app": {
-		"version": "1.0.8",
+		"version": "1.0.9",
 		"urls": [
-			"http://v1.abyui.xyz/downloads/app.asar.gz.1.0.8",
-			"http://v2.abyui.xyz/downloads/app.asar.gz.1.0.8",
-			"http://204.44.82.70/downloads/app.asar.gz.1.0.8"
+			"http://v1.abyui.xyz/downloads/app.asar.gz.1.0.9",
+			"http://v2.abyui.xyz/downloads/app.asar.gz.1.0.9",
+			"http://204.44.82.70/downloads/app.asar.gz.1.0.8",
+			"https://rawcdn.githack.com/aby-ui/repo-release/da621dadc0eeb9f530ff28ecd50ac67ed63f6a28/app.asar.gz"
 		]
 	},
 	"lib": {
