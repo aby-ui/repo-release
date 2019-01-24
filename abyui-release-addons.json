@@ -7,8 +7,8 @@
   ],
   "repos": {
     "repo-base": {
-      "hash": "7dafd8ab99e7a9108e33c833501d92e1ed99e219",
-      "date": "20190124_0159",
+      "hash": "09978d22b6ea556f34479d45131c957f47ec56d6",
+      "date": "20190124_0831",
       "dirs": [
         "!!!163UI!!!",
         "!!!Libs",
@@ -113,6 +113,7 @@
         "DBM-VoA",
         "DBM-VPYike",
         "DBM-WorldEvents",
+        "DBM-ZuldazarRaid",
         "DBM_Mods_Cataclysm",
         "DBM_Mods_Legion",
         "DBM_Mods_MoP",
