@@ -1,9 +1,9 @@
 {
   "gits": [
-    "bbcdn.githack.com/aby-ui2",
     "glcdn.githack.com/abyui3",
-    "bitbucket.org/aby-ui2",
-    "git.coding.net/aby-ui2"
+    "rawcdn.githack.com/aby-ui",
+    "git.coding.net/aby-ui2",
+    "bbcdn.githack.com/aby-ui2"
   ],
   "repos": {
     "repo-base": {
