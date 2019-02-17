@@ -1,8 +1,8 @@
 {
   "repos": {
     "repo-base": {
-      "hash": "1abdf4b85a6bccafd16c06949f7ac837c5dce51a",
-      "date": "20190214_0320",
+      "hash": "1db5683e094cbc3f5a93c812bcf19c5bccf0107a",
+      "date": "20190217_1208",
       "dirs": [
         "!!!163UI!!!",
         "!!!Libs",
@@ -199,6 +199,7 @@
         "MasterPlanA",
         "MeetingStone",
         "MerchantEx",
+        "MethodDungeonTools",
         "Myslot",
         "NPCScan",
         "oGlow",
