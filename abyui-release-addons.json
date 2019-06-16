@@ -7,8 +7,8 @@
   ],
   "repos": {
     "repo-base": {
-      "hash": "56d888796002a8f54e7a15c63664fd95c64a7e26",
-      "date": "20190613_0104",
+      "hash": "5c9ad9baab2e5c16da3792c534a97bc5c8e7a1ca",
+      "date": "20190617_0304",
       "dirs": [
         "!!!163UI!!!",
         "!!!Libs",
@@ -123,6 +123,14 @@
         "DeathAnnounce",
         "Decursive",
         "DejaCharacterStats",
+        "Details",
+        "Details_3DModelsPaths",
+        "Details_DataStorage",
+        "Details_EncounterDetails",
+        "Details_RaidCheck",
+        "Details_Streamer",
+        "Details_TinyThreat",
+        "Details_Vanguard",
         "Dominos",
         "Dominos_Cast",
         "Dominos_CastClassic",
