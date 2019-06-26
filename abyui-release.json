@@ -1,8 +1,8 @@
 {
   "repos": {
     "repo-base": {
-      "hash": "cf40991f546f45d254f005b4defce8fe5d85e57e",
-      "date": "20190625_0258",
+      "hash": "bc7030d3077016c70116acf02673cf073b39dd1a",
+      "date": "20190627_0541",
       "dirs": [
         "!!!163UI!!!",
         "!!!Libs",
@@ -118,7 +118,6 @@
         "Decursive",
         "DejaCharacterStats",
         "Details",
-        "Details_3DModelsPaths",
         "Details_DataStorage",
         "Details_EncounterDetails",
         "Details_RaidCheck",
@@ -339,6 +338,7 @@
     "LucidNightmareHelper",
     "NomiCakes",
     "TOTxp",
-    "LegiondarySwitch"
+    "LegiondarySwitch",
+    "Details_3DModelsPaths"
   ]
 }
