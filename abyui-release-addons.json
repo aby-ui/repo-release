@@ -7,8 +7,8 @@
   ],
   "repos": {
     "repo-base": {
-      "hash": "d7958bbba39ee749ffddb4c52d7d48794ac17fb9",
-      "date": "20190627_1710",
+      "hash": "90b99bee159d0eb832d785d29e233697389615fc",
+      "date": "20190627_1732",
       "dirs": [
         "!!!163UI!!!",
         "!!!Libs",
@@ -80,6 +80,7 @@
         "DBM-Draenor",
         "DBM-DragonSoul",
         "DBM-EmeraldNightmare",
+        "DBM-EternalPalace",
         "DBM-EyeOfEternity",
         "DBM-Firelands",
         "DBM-GarrisonInvasions",
@@ -95,7 +96,6 @@
         "DBM-Pandaria",
         "DBM-Party-BfA",
         "DBM-Party-Cataclysm",
-        "DBM-Party-Legion",
         "DBM-Party-MoP",
         "DBM-Party-WoD",
         "DBM-Party-WotLK",
