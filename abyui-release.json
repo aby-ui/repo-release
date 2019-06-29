@@ -1,8 +1,8 @@
 {
   "repos": {
     "repo-base": {
-      "hash": "bef4592860ba9bb2a91b85616e11d0341efdff9d",
-      "date": "20190629_0135",
+      "hash": "7b252baa185a5292f2af53529c0fb87c24442c92",
+      "date": "20190629_1535",
       "dirs": [
         "!!!163UI!!!",
         "!!!Libs",
@@ -251,6 +251,7 @@
         "TipTacOptions",
         "TipTacTalents",
         "TomCats-DarkshoreRares",
+        "TomCats-Mechagon",
         "TomCats-Nazjatar",
         "TomTom",
         "ToyPlus",
