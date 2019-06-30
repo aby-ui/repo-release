@@ -1,8 +1,8 @@
 {
   "repos": {
     "repo-base": {
-      "hash": "7b252baa185a5292f2af53529c0fb87c24442c92",
-      "date": "20190629_1535",
+      "hash": "e60209e430ca4f0e630e936dcf1cd08a20fa523a",
+      "date": "20190630_1108",
       "dirs": [
         "!!!163UI!!!",
         "!!!Libs",
@@ -90,6 +90,7 @@
         "DBM-Pandaria",
         "DBM-Party-BfA",
         "DBM-Party-Cataclysm",
+        "DBM-Party-Legion",
         "DBM-Party-MoP",
         "DBM-Party-WoD",
         "DBM-Party-WotLK",
@@ -209,7 +210,6 @@
         "MerchantEx",
         "MethodDungeonTools",
         "Myslot",
-        "NPCScan",
         "oGlow",
         "OmniBar",
         "OmniCC",
@@ -222,6 +222,7 @@
         "QuestAnnounce",
         "RangeDisplay",
         "RangeDisplay_Options",
+        "RareScanner",
         "Rematch",
         "SavedInstances",
         "ShadowedUF_Options",
@@ -341,6 +342,7 @@
     "NomiCakes",
     "TOTxp",
     "LegiondarySwitch",
-    "Details_3DModelsPaths"
+    "Details_3DModelsPaths",
+    "NPCScan"
   ]
 }
