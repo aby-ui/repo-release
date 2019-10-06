@@ -1,8 +1,8 @@
 {
   "repos": {
     "repo-base": {
-      "hash": "7a08db15ac27ba5fb0cd5fc83eee915de9cd48c3",
-      "date": "20191003_0553",
+      "hash": "322300c2cb86abc7da8dae18f412b63f33250470",
+      "date": "20191007_0410",
       "dirs": [
         "!!!163UI!!!",
         "!!!Libs",
@@ -195,12 +195,11 @@
         "Masque_Apathy",
         "Masque_Cainyx",
         "Masque_Caith",
+        "Masque_Cirque",
         "Masque_CleanUI",
         "Masque_Entropy",
-        "Masque_Gears",
         "Masque_Goldpaw",
         "Masque_Kenzo",
-        "Masque_LiteStep",
         "Masque_Onyx",
         "Masque_Parabole",
         "Masque_Serenity",
@@ -343,6 +342,8 @@
     "TOTxp",
     "LegiondarySwitch",
     "Details_3DModelsPaths",
-    "NPCScan"
+    "NPCScan",
+    "Masque_Gears",
+    "Masque_LiteStep"
   ]
 }
