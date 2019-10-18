@@ -3,8 +3,8 @@
 	"app": {
 		"version": "1.1.2",
 		"urls": [
-			"http://v1.abyui.xyz/downloads/app.asar.gz.1.1.2",
-			"http://v4.abyui.xyz/downloads/app.asar.gz.1.1.2",
+			"http://v1.aibuyi.top/downloads/app.asar.gz.1.1.2",
+			"http://v4.aibuyi.top/downloads/app.asar.gz.1.1.2",
 			"https://rawcdn.githack.com/aby-ui/repo-release/10b00e20ba034ae8acec6668c11379ca32dd32cf/app.asar.gz",
 			"http://204.44.82.70/downloads/app.asar.gz.1.1.2"
 		]
