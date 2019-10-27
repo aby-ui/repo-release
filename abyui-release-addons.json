@@ -1,13 +1,14 @@
 {
   "gits": [
-    "glcdn.githack.com/aby4",
+    "v3.aibuyi.top/aby-ui",
     "rawcdn.githack.com/aby-ui",
-    "bbcdn.githack.com/aby-ui2"
+    "bbcdn.githack.com/aby-ui2",
+    "v5.aibuyi.top/aby-ui"
   ],
   "repos": {
     "repo-base": {
-      "hash": "5011e8b229c60408eb840932df72a60a197dbd3f",
-      "date": "20191019_2131",
+      "hash": "b1356b6757f5728cfe75c63042d4ef90f19ce065",
+      "date": "20191028_0154",
       "dirs": [
         "!!!163UI!!!",
         "!!!Libs",
