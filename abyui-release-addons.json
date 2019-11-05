@@ -1,7 +1,8 @@
 {
   "gits": [
     "v3.aibuyi.top/aby-ui",
-    "v3.aibuyi.top/githack.com"
+    "rawcdn.githack.com/aby-ui",
+    "bbcdn.githack.com/aby-ui2"
   ],
   "repos": {
     "repo-base": {
