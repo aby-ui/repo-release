@@ -6,8 +6,8 @@
   ],
   "repos": {
     "repo-base": {
-      "hash": "c79aa63b00735edcec238706f70a0eca0a7b1040",
-      "date": "20200103_0155",
+      "hash": "5d8bbf1ac0321ddd9b4fa28c8d60363c862d9384",
+      "date": "20200116_0524",
       "dirs": [
         "!!!163UI!!!",
         "!!!Libs",
@@ -91,6 +91,7 @@
         "DBM-MogushanVaults",
         "DBM-Naxx",
         "DBM-Nighthold",
+        "DBM-Nyalotha",
         "DBM-Onyxia",
         "DBM-Pandaria",
         "DBM-Party-BfA",
