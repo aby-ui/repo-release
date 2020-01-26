@@ -6,15 +6,14 @@
   ],
   "repos": {
     "repo-base": {
-      "hash": "d4f7689212865dd5af0d23663e482caaf66d4360",
-      "date": "20200124_0036",
+      "hash": "4fe735cafcee270846fcddc059d1ca19c7f8ffc9",
+      "date": "20200126_1304",
       "dirs": [
         "!!!163UI!!!",
         "!!!Libs",
         "!BaudErrorFrame",
         "!KalielsTracker",
         "!tdDropDown",
-        "!WorldFlightMapLoader",
         "163UI_Buff",
         "163UI_Chat",
         "163UI_ChatHistory",
@@ -350,6 +349,7 @@
     "Details_3DModelsPaths",
     "NPCScan",
     "Masque_Gears",
-    "Masque_LiteStep"
+    "Masque_LiteStep",
+    "!WorldFlightMapLoader"
   ]
 }
