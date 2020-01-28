@@ -1,8 +1,8 @@
 {
   "repos": {
     "repo-base": {
-      "hash": "5b520d81d2b3a2fd9896f77d4eca990173a5fd22",
-      "date": "20200128_1104",
+      "hash": "4952a665860c3206191567aea5fc97da099b1d55",
+      "date": "20200129_0207",
       "dirs": [
         "!!!163UI!!!",
         "!!!Libs",
@@ -22,7 +22,6 @@
         "AchievementsReminder",
         "AngryKeystones",
         "AtlasLootReverse",
-        "AuctionLite",
         "AutoTurnIn",
         "AzeriteTooltip",
         "BagBrother",
@@ -31,7 +30,6 @@
         "Bagnon_GuildBank",
         "Bagnon_VoidStorage",
         "BattlegroundTargets",
-        "BaudAuction",
         "BFAInvasionTimer",
         "BFAInvasionTimer_Options",
         "BGDefender",
@@ -175,7 +173,6 @@
         "GridStatusTankCooldown",
         "GTFO",
         "HandyNotes",
-        "HandyNotes_Arathi",
         "HandyNotes_Argus",
         "HandyNotes_BattleForAzerothTreasures",
         "HandyNotes_DraenorTreasures",
@@ -183,8 +180,11 @@
         "HandyNotes_HallowsEnd",
         "HandyNotes_LegionRaresTreasures",
         "HandyNotes_LunarFestival",
+        "HandyNotes_MechagonAndNazjatar",
         "HandyNotes_SummerFestival",
         "HandyNotes_SuramarTelemancy",
+        "HandyNotes_VisionsOfNZoth",
+        "HandyNotes_WarfrontRares",
         "Healers-Have-To-Die",
         "HHTD",
         "HPetBattleAny",
@@ -222,6 +222,7 @@
         "RangeDisplay",
         "RangeDisplay_Options",
         "RareScanner",
+        "RECrystallize",
         "Rematch",
         "SavedInstances",
         "ShadowedUF_Options",
@@ -250,9 +251,6 @@
         "TipTacItemRef",
         "TipTacOptions",
         "TipTacTalents",
-        "TomCats-DarkshoreRares",
-        "TomCats-Mechagon",
-        "TomCats-Nazjatar",
         "TomTom",
         "ToyPlus",
         "TradeLog",
@@ -345,6 +343,12 @@
     "NPCScan",
     "Masque_Gears",
     "Masque_LiteStep",
-    "!WorldFlightMapLoader"
+    "!WorldFlightMapLoader",
+    "HandyNotes_Arathi",
+    "TomCats-DarkshoreRares",
+    "TomCats-Nazjatar",
+    "TomCats-Mechagon",
+    "AuctionLite",
+    "BaudAuction"
   ]
 }
