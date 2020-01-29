@@ -6,8 +6,8 @@
   ],
   "repos": {
     "repo-base": {
-      "hash": "4952a665860c3206191567aea5fc97da099b1d55",
-      "date": "20200129_0207",
+      "hash": "e8eabbb05e23e99c69e05527e760e8a4fd352e27",
+      "date": "20200129_2243",
       "dirs": [
         "!!!163UI!!!",
         "!!!Libs",
@@ -212,6 +212,7 @@
         "MasterPlanA",
         "MeetingStone",
         "MerchantEx",
+        "MethodAltManager",
         "MethodDungeonTools",
         "Myslot",
         "oGlow",
