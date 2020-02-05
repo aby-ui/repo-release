@@ -6,8 +6,8 @@
   ],
   "repos": {
     "repo-base": {
-      "hash": "45d1ad8d986d8b7478102377129c59c6db76a219",
-      "date": "20200204_1816",
+      "hash": "543c1183a01ad5b7afd3fe88544902bbc793592d",
+      "date": "20200206_0331",
       "dirs": [
         "!!!163UI!!!",
         "!!!Libs",
@@ -22,6 +22,7 @@
         "163UI_MoreOptions",
         "163UI_Plugins",
         "163UI_TeamStats",
+        "AbyAuctionFavoritesSavior",
         "AbyBossGuide",
         "Accountant_Classic",
         "AchievementsReminder",
@@ -158,8 +159,12 @@
         "GlowFoSho",
         "Grail",
         "Grail-Achievements",
-        "Grail-Quests-zhCN",
-        "Grail-Reputations",
+        "Grail-NPCs-_retail_",
+        "Grail-NPCs-_retail_-enUS",
+        "Grail-NPCs-_retail_-zhCN",
+        "Grail-Quests-_retail_",
+        "Grail-Quests-_retail_-zhCN",
+        "Grail-Reputations-_retail_",
         "Grail-Rewards",
         "Grail-When",
         "Grid",
@@ -190,7 +195,6 @@
         "HandyNotes_SuramarTelemancy",
         "HandyNotes_VisionsOfNZoth",
         "HandyNotes_WarfrontRares",
-        "Healers-Have-To-Die",
         "HHTD",
         "HPetBattleAny",
         "Kib_QuestMobs",
@@ -268,6 +272,7 @@
         "tullaRange_Config",
         "vBar",
         "WeakAuras",
+        "WeakAurasArchive",
         "WeakAurasModelPaths",
         "WeakAurasOptions",
         "WeakAurasTemplates",
@@ -355,6 +360,9 @@
     "TomCats-Nazjatar",
     "TomCats-Mechagon",
     "AuctionLite",
-    "BaudAuction"
+    "BaudAuction",
+    "Healers-Have-To-Die",
+    "Grail-Quests-zhCN",
+    "Grail-Reputations"
   ]
 }
