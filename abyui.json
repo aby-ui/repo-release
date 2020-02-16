@@ -1,6 +1,6 @@
 {
   "client" : [
-    "http://v4.aibuyi.top/release/abyui-release-client.json",
+    "http://v5.aibuyi.top/release/abyui-release-client.json",
     "http://abyui.top/release/abyui-release-client.json"
   ],
   "addons" : [
@@ -8,7 +8,7 @@
     "http://abyui.top/release/abyui-release-addons.json"
   ],
   "bulletin" : [
-    "http://v4.aibuyi.top/release/bulletin.html?20200212",
-        "http://abyui.top/release/bulletin.html?20200212"
+    "http://v5.aibuyi.top/release/bulletin.html?20200217",
+        "http://abyui.top/release/bulletin.html?20200217"
   ]
 }
