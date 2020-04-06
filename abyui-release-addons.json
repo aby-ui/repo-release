@@ -6,8 +6,8 @@
   ],
   "repos": {
     "repo-base": {
-      "hash": "9dca0f5b746ce4ac18c284f02b384c138e8092e1",
-      "date": "20200331_0109",
+      "hash": "334871533eaf70813650cb87288bccae4163c49b",
+      "date": "20200406_2329",
       "dirs": [
         "!!!163UI!!!",
         "!!!Libs",
@@ -159,6 +159,7 @@
         "HandyNotes_SuramarTelemancy",
         "HandyNotes_VisionsOfNZoth",
         "HandyNotes_WarfrontRares",
+        "haohaoliaotian",
         "HHTD",
         "HPetBattleAny",
         "Kib_QuestMobs",
