@@ -6,8 +6,8 @@
   ],
   "repos": {
     "repo-base": {
-      "hash": "334871533eaf70813650cb87288bccae4163c49b",
-      "date": "20200406_2329",
+      "hash": "be1e8fdfcc8906c33c83ebac2540555cdf4249bf",
+      "date": "20200407_1915",
       "dirs": [
         "!!!163UI!!!",
         "!!!Libs",
@@ -159,7 +159,6 @@
         "HandyNotes_SuramarTelemancy",
         "HandyNotes_VisionsOfNZoth",
         "HandyNotes_WarfrontRares",
-        "haohaoliaotian",
         "HHTD",
         "HPetBattleAny",
         "Kib_QuestMobs",
@@ -270,6 +269,7 @@
     "Grail-Quests-zhCN",
     "Grail-Reputations",
     "GridStatusRD_WoD",
-    "GridStatusRD_MoP"
+    "GridStatusRD_MoP",
+    "haohaoliaotian"
   ]
 }
