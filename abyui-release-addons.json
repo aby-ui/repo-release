@@ -7,8 +7,8 @@
   ],
   "repos": {
     "repo-base": {
-      "hash": "b8fafe258df4ce039e0ef7bd51804cbcdcd31388",
-      "date": "20200531_0352",
+      "hash": "c1b85573cf71af1ae63b0aa0438737a451ec1259",
+      "date": "20200531_0958",
       "dirs": [
         "!!!163UI!!!",
         "!!!Libs",
@@ -271,6 +271,7 @@
     "Grail-Reputations",
     "GridStatusRD_WoD",
     "GridStatusRD_MoP",
-    "haohaoliaotian"
+    "haohaoliaotian",
+    "DBM-SpellTimers"
   ]
 }
