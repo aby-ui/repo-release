@@ -7,8 +7,8 @@
   ],
   "repos": {
     "repo-base": {
-      "hash": "c1b85573cf71af1ae63b0aa0438737a451ec1259",
-      "date": "20200531_0958",
+      "hash": "625dfff00080474c6db58f846d5151b4e3dfdff0",
+      "date": "20200601_0118",
       "dirs": [
         "!!!163UI!!!",
         "!!!Libs",
@@ -76,7 +76,6 @@
         "DBM-Nyalotha",
         "DBM-Party-BfA",
         "DBM-Party-Legion",
-        "DBM-SpellTimers",
         "DBM-StatusBarTimers",
         "DBM-TimelessIsle",
         "DBM-TombofSargeras",
