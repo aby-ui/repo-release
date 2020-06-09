@@ -1,8 +1,8 @@
 {
   "repos": {
     "repo-base": {
-      "hash": "58742f08beeedcc5c29ac15f9f8aad1373b622df",
-      "date": "20200606_1115",
+      "hash": "2cede8eb65f286ac06fe1bedc515ef0ca2b2f8ac",
+      "date": "20200610_0046",
       "dirs": [
         "!!!163UI!!!",
         "!!!Libs",
@@ -174,7 +174,6 @@
         "MasterPlanA",
         "MeetingStone",
         "MerchantEx",
-        "MethodAltManager",
         "MethodDungeonTools",
         "Myslot",
         "oGlow",
@@ -265,6 +264,8 @@
     "GridStatusRD_WoD",
     "GridStatusRD_MoP",
     "haohaoliaotian",
-    "DBM-SpellTimers"
+    "DBM-SpellTimers",
+    "DBM-RaidLeadTools",
+    "MethodAltManager"
   ]
 }
