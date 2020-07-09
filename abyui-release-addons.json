@@ -7,8 +7,8 @@
   ],
   "repos": {
     "repo-base": {
-      "hash": "24fe26e2644893e3a35502be2c07522f0009974e",
-      "date": "20200709_0158",
+      "hash": "7dca2f507e76b14941aa0d9e2e67a3032645bc73",
+      "date": "20200709_1830",
       "dirs": [
         "!!!163UI!!!",
         "!!!Libs",
@@ -182,6 +182,7 @@
         "MerchantEx",
         "MethodDungeonTools",
         "Myslot",
+        "MythicDungeonTools",
         "oGlow",
         "OmniBar",
         "OmniCC",
