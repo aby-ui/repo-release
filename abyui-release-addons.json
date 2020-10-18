@@ -7,8 +7,8 @@
   ],
   "repos": {
     "repo-base": {
-      "hash": "f560c0d0e635a33ef19a908323cc9213ce11c00d",
-      "date": "20201017_2343",
+      "hash": "9d0469f2bd30fbb028ddfd6e2eaa994516c03072",
+      "date": "20201018_1153",
       "dirs": [
         "!!!163UI!!!",
         "!!!Libs",
@@ -277,7 +277,6 @@
     "DBM-SpellTimers",
     "DBM-RaidLeadTools",
     "MethodAltManager",
-    "Dominos_Roll",
     "Details_TinyThreat",
     "Details_Vanguard"
   ]
