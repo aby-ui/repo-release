@@ -1,8 +1,8 @@
 {
   "repos": {
     "repo-base": {
-      "hash": "9d0469f2bd30fbb028ddfd6e2eaa994516c03072",
-      "date": "20201018_1153",
+      "hash": "6756be673c90f15572be328e91eaffe68c99b1d2",
+      "date": "20201018_2109",
       "dirs": [
         "!!!163UI!!!",
         "!!!Libs",
@@ -93,6 +93,8 @@
         "Details_Streamer",
         "Details_TargetCaller",
         "Details_TimeLine",
+        "Details_TinyThreat",
+        "Details_Vanguard",
         "Dominos",
         "Dominos_Cast",
         "Dominos_CastClassic",
@@ -270,8 +272,6 @@
     "haohaoliaotian",
     "DBM-SpellTimers",
     "DBM-RaidLeadTools",
-    "MethodAltManager",
-    "Details_TinyThreat",
-    "Details_Vanguard"
+    "MethodAltManager"
   ]
 }
