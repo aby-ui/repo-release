@@ -1,8 +1,8 @@
 {
   "repos": {
     "repo-base": {
-      "hash": "6756be673c90f15572be328e91eaffe68c99b1d2",
-      "date": "20201018_2109",
+      "hash": "273de0cd698d4df5ced31e2229ac70815048d53c",
+      "date": "20201020_1421",
       "dirs": [
         "!!!163UI!!!",
         "!!!Libs",
@@ -30,7 +30,7 @@
         "Bagnon_Config",
         "Bagnon_GuildBank",
         "Bagnon_VoidStorage",
-        "BattlegroundTargets",
+        "BattleGroundEnemies",
         "BFAInvasionTimer",
         "BFAInvasionTimer_Options",
         "BGDefender",
@@ -101,6 +101,7 @@
         "Dominos_Config",
         "Dominos_Encounter",
         "Dominos_Progress",
+        "Dominos_Roll",
         "Dresser",
         "DuowanChat",
         "Ellipsis",
@@ -272,6 +273,7 @@
     "haohaoliaotian",
     "DBM-SpellTimers",
     "DBM-RaidLeadTools",
-    "MethodAltManager"
+    "MethodAltManager",
+    "BattlegroundTargets"
   ]
 }
