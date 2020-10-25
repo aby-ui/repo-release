@@ -1,8 +1,8 @@
 {
   "repos": {
     "repo-base": {
-      "hash": "b447c4082231400647d4788caeccb7295ace6386",
-      "date": "20201024_1956",
+      "hash": "9cfeb6ac9d42d58386ac7b5ce95926064e986604",
+      "date": "20201026_0032",
       "dirs": [
         "!!!163UI!!!",
         "!!!Libs",
@@ -58,6 +58,7 @@
         "DBM-Azeroth-BfA",
         "DBM-Brawlers",
         "DBM-BrokenIsles",
+        "DBM-CastleNathria",
         "DBM-Challenges",
         "DBM-Core",
         "DBM-CrucibleofStorms",
@@ -70,6 +71,8 @@
         "DBM-Nyalotha",
         "DBM-Party-BfA",
         "DBM-Party-Legion",
+        "DBM-Party-Shadowlands",
+        "DBM-Shadowlands",
         "DBM-StatusBarTimers",
         "DBM-TimelessIsle",
         "DBM-TombofSargeras",
