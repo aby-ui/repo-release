@@ -7,8 +7,8 @@
   ],
   "repos": {
     "repo-base": {
-      "hash": "4fd1fe4bdeeb4b4cabe5a4597dc1f9dc0a1a574a",
-      "date": "20201112_0315",
+      "hash": "b2d3895262ded11058cdc9f38a0ca801670d62d3",
+      "date": "20201112_1100",
       "dirs": [
         "!!!163UI!!!",
         "!!!Libs",
@@ -164,6 +164,7 @@
         "HandyNotes_LegionRaresTreasures",
         "HandyNotes_LunarFestival",
         "HandyNotes_MechagonAndNazjatar",
+        "HandyNotes_Shadowlands",
         "HandyNotes_SummerFestival",
         "HandyNotes_SuramarTelemancy",
         "HandyNotes_VisionsOfNZoth",
