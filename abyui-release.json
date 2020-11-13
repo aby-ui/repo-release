@@ -1,8 +1,8 @@
 {
   "repos": {
     "repo-base": {
-      "hash": "b2d3895262ded11058cdc9f38a0ca801670d62d3",
-      "date": "20201112_1100",
+      "hash": "c3bcb359d41439765157226b256ddf1d57b8a372",
+      "date": "20201114_0635",
       "dirs": [
         "!!!163UI!!!",
         "!!!Libs",
@@ -153,7 +153,6 @@
         "HandyNotes_Argus",
         "HandyNotes_BattleForAzerothTreasures",
         "HandyNotes_DraenorTreasures",
-        "HandyNotes_DungeonLocations",
         "HandyNotes_HallowsEnd",
         "HandyNotes_LegionRaresTreasures",
         "HandyNotes_LunarFestival",
@@ -278,6 +277,7 @@
     "DBM-SpellTimers",
     "DBM-RaidLeadTools",
     "MethodAltManager",
-    "BattlegroundTargets"
+    "BattlegroundTargets",
+    "HandyNotes_DungeonLocations"
   ]
 }
