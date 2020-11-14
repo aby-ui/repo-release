@@ -7,8 +7,8 @@
   ],
   "repos": {
     "repo-base": {
-      "hash": "c3bcb359d41439765157226b256ddf1d57b8a372",
-      "date": "20201114_0635",
+      "hash": "e81e4b76a93ac815d4518be8d96934ea8aa2e3bf",
+      "date": "20201115_0148",
       "dirs": [
         "!!!163UI!!!",
         "!!!Libs",
@@ -60,7 +60,6 @@
         "Comergy_Redux_Options",
         "CompactRaid",
         "DBM-AntorusBurningThrone",
-        "DBM-Argus",
         "DBM-Azeroth-BfA",
         "DBM-Brawlers",
         "DBM-BrokenIsles",
@@ -157,17 +156,14 @@
         "GTFO",
         "HandyNotes",
         "HandyNotes_Argus",
-        "HandyNotes_BattleForAzerothTreasures",
+        "HandyNotes_BattleForAzeroth",
         "HandyNotes_DraenorTreasures",
         "HandyNotes_HallowsEnd",
         "HandyNotes_LegionRaresTreasures",
         "HandyNotes_LunarFestival",
-        "HandyNotes_MechagonAndNazjatar",
         "HandyNotes_Shadowlands",
         "HandyNotes_SummerFestival",
         "HandyNotes_SuramarTelemancy",
-        "HandyNotes_VisionsOfNZoth",
-        "HandyNotes_WarfrontRares",
         "HHTD",
         "HPetBattleAny",
         "Kib_QuestMobs",
@@ -284,6 +280,12 @@
     "DBM-RaidLeadTools",
     "MethodAltManager",
     "BattlegroundTargets",
-    "HandyNotes_DungeonLocations"
+    "HandyNotes_DungeonLocations",
+    "HandyNotes_VisionsOfNZoth",
+    "HandyNotes_MechagonAndNazjatar",
+    "HandyNotes_WarfrontRares",
+    "HandyNotes_BattleForAzerothTreasures",
+    "HandyNotes_DungeonLocations",
+    "DBM-Argus"
   ]
 }
