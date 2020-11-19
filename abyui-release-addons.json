@@ -7,8 +7,8 @@
   ],
   "repos": {
     "repo-base": {
-      "hash": "9b80822b624542a836833a237459811cca351ad4",
-      "date": "20201119_0706",
+      "hash": "5c5377ebf51153081c3fa755c06362e969c230fe",
+      "date": "20201119_0807",
       "dirs": [
         "!!!163UI!!!",
         "!!!Libs",
@@ -60,7 +60,7 @@
         "Comergy_Redux_Options",
         "CompactRaid",
         "DBM-AntorusBurningThrone",
-        "DBM-Azeroth-BfA",
+        "DBM-BfA",
         "DBM-Brawlers",
         "DBM-BrokenIsles",
         "DBM-CastleNathria",
@@ -285,6 +285,7 @@
     "HandyNotes_MechagonAndNazjatar",
     "HandyNotes_WarfrontRares",
     "HandyNotes_BattleForAzerothTreasures",
-    "DBM-Argus"
+    "DBM-Argus",
+    "DBM-Azeroth-BfA"
   ]
 }
