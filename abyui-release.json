@@ -1,8 +1,8 @@
 {
   "repos": {
     "repo-base": {
-      "hash": "d6ff1bcf1ae30f77b888f216a208549773a237df",
-      "date": "20201121_0313",
+      "hash": "2aa41e9358c3f7fa90a299173878299e15ac5353",
+      "date": "20201122_1143",
       "dirs": [
         "!!!163UI!!!",
         "!!!Libs",
@@ -80,6 +80,7 @@
         "DBM-VPYike",
         "DBM-WorldEvents",
         "DBM-ZuldazarRaid",
+        "DBM_Mods_BfA",
         "DBM_Mods_Legion",
         "DeathAnnounce",
         "Decursive",
@@ -143,9 +144,6 @@
         "GridManaBars",
         "GridQuickHealth",
         "GridStatusEnemyTarget",
-        "GridStatusRaidDebuff",
-        "GridStatusRD_BfA",
-        "GridStatusRD_Legion",
         "GridStatusTankCooldown",
         "GTFO",
         "HandyNotes",
@@ -189,6 +187,9 @@
         "OmniCC_Config",
         "Paku_Totems",
         "Parrot",
+        "PlexusStatusRaidDebuff",
+        "PlexusStatusRD_BfA",
+        "PlexusStatusRD_SL",
         "Postal",
         "QuakeAssist",
         "Quartz",
@@ -280,6 +281,9 @@
     "HandyNotes_WarfrontRares",
     "HandyNotes_BattleForAzerothTreasures",
     "DBM-Argus",
-    "DBM-Azeroth-BfA"
+    "DBM-Azeroth-BfA",
+    "GridStatusRD_BfA",
+    "GridStatusRD_Legion",
+    "GridStatusRaidDebuff"
   ]
 }
