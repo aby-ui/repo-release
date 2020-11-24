@@ -7,8 +7,8 @@
   ],
   "repos": {
     "repo-base": {
-      "hash": "a928fab2774f382237286b15a61de786ae7a7601",
-      "date": "20201124_0352",
+      "hash": "63f3982002f74ae9053d3ef5ead37f84fcc92064",
+      "date": "20201124_0911",
       "dirs": [
         "!!!163UI!!!",
         "!!!Libs",
@@ -92,16 +92,10 @@
         "Decursive",
         "DejaCharacterStats",
         "Details",
-        "Details_CastHistory",
-        "Details_ChartViewer",
         "Details_DataStorage",
-        "Details_DeathGraphs",
         "Details_EncounterDetails",
         "Details_RaidCheck",
-        "Details_RaidPowerBars",
         "Details_Streamer",
-        "Details_TargetCaller",
-        "Details_TimeLine",
         "Details_TinyThreat",
         "Details_Vanguard",
         "Dominos",
@@ -290,6 +284,12 @@
     "DBM-Azeroth-BfA",
     "GridStatusRD_BfA",
     "GridStatusRD_Legion",
-    "GridStatusRaidDebuff"
+    "GridStatusRaidDebuff",
+    "Details_CastHistory",
+    "Details_ChartViewer",
+    "Details_DeathGraphs",
+    "Details_RaidPowerBars",
+    "Details_TargetCaller",
+    "Details_TimeLine"
   ]
 }
