@@ -1,8 +1,8 @@
 {
   "repos": {
     "repo-base": {
-      "hash": "26c280c43968b6089b0504f41288b28f0f866acb",
-      "date": "20201126_0316",
+      "hash": "9d903ff2158347fb3c1bb9525c8cf8d888bbc0ae",
+      "date": "20201127_0505",
       "dirs": [
         "!!!163UI!!!",
         "!!!Libs",
@@ -24,7 +24,6 @@
         "AngryKeystones",
         "AtlasLootReverse",
         "AutoTurnIn",
-        "AzeriteTooltip",
         "BagBrother",
         "Bagnon",
         "Bagnon_Config",
@@ -284,6 +283,7 @@
     "Details_DeathGraphs",
     "Details_RaidPowerBars",
     "Details_TargetCaller",
-    "Details_TimeLine"
+    "Details_TimeLine",
+    "AzeriteTooltip"
   ]
 }
