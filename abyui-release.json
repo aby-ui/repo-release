@@ -1,8 +1,8 @@
 {
   "repos": {
     "repo-base": {
-      "hash": "69dfb26d29de0fc80fdbcd4f410c32f35e06b17b",
-      "date": "20201212_0335",
+      "hash": "8f40bc844749bba97e3ef04c865af54bcc13cf78",
+      "date": "20201214_0222",
       "dirs": [
         "!!!163UI!!!",
         "!!!Libs",
@@ -199,6 +199,7 @@
         "Skada",
         "SkadaExplosiveOrbs",
         "SwingBar",
+        "SwitchSwitch",
         "TargetButton",
         "TargetNameplateIndicator",
         "tdCore",
