@@ -7,8 +7,8 @@
   ],
   "repos": {
     "repo-base": {
-      "hash": "32c0ddf889c21753d925adcfda3419e16a839236",
-      "date": "20210110_1209",
+      "hash": "c0802ddaec3c28a27c6e5c82e0fb18226bdc2885",
+      "date": "20210111_0048",
       "dirs": [
         "!!!163UI!!!",
         "!!!Libs",
@@ -188,6 +188,7 @@
         "Parrot",
         "PlexusStatusRaidDebuff",
         "PlexusStatusRD_BfA",
+        "PlexusStatusRD_Dungeon",
         "PlexusStatusRD_SL",
         "Postal",
         "QuakeAssist",
