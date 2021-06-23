@@ -1,8 +1,8 @@
 {
   "repos": {
     "repo-base": {
-      "hash": "0921487700553d227198a3f97d7fa2136cdd55e5",
-      "date": "20210609_0026",
+      "hash": "234fb465128c37e0675e038184f5f89b77a84b52",
+      "date": "20210624_0143",
       "dirs": [
         "!!!163UI!!!",
         "!!!Libs",
@@ -68,6 +68,7 @@
         "DBM-Party-BfA",
         "DBM-Party-Legion",
         "DBM-Party-Shadowlands",
+        "DBM-SanctumOfDomination",
         "DBM-Shadowlands",
         "DBM-StatusBarTimers",
         "DBM-TimelessIsle",
