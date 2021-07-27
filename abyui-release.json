@@ -1,8 +1,8 @@
 {
   "repos": {
     "repo-base": {
-      "hash": "2b9fb63ec390b398e885254b2c30096ae3a8370f",
-      "date": "20210728_0236",
+      "hash": "04f1e5ab5cd8c03e772588dde0e7512f519b3c8a",
+      "date": "20210728_0243",
       "dirs": [
         "!!!163UI!!!",
         "!!!Libs",
@@ -84,6 +84,7 @@
         "Decursive",
         "DejaCharacterStats",
         "Details",
+        "Details_Covenants",
         "Details_DataStorage",
         "Details_EncounterDetails",
         "Details_ExplosiveOrbs",
