@@ -1,8 +1,8 @@
 {
   "repos": {
     "repo-base": {
-      "hash": "5f37e2258ba962829f894889d6c9e8e8ef21ec47",
-      "date": "20210807_1204",
+      "hash": "7770186262ee2867a101370a58b2d98c9e8c1561",
+      "date": "20210817_0157",
       "dirs": [
         "!!!163UI!!!",
         "!!!Libs",
@@ -92,6 +92,7 @@
         "Details_Streamer",
         "Details_TinyThreat",
         "Details_Vanguard",
+        "DominationSocketHelper",
         "Dominos",
         "Dominos_Cast",
         "Dominos_CastClassic",
