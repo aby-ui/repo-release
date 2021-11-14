@@ -7,8 +7,8 @@
   ],
   "repos": {
     "repo-base": {
-      "hash": "36437d23874e7c6803b17d69e3f0e91d7783c76c",
-      "date": "20211112_0152",
+      "hash": "7e6e5c8564fd29f093ef1ce2f900e0b45aeb84e1",
+      "date": "20211115_0104",
       "dirs": [
         "!!!163UI!!!",
         "!!!Libs",
@@ -216,8 +216,6 @@
         "TargetNameplateIndicator",
         "tdCore",
         "tdPack",
-        "TellMeWhen",
-        "TellMeWhen_Options",
         "TheBurningTrade",
         "TidyPlates",
         "TidyPlatesHub",
