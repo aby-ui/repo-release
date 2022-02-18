@@ -5,17 +5,14 @@
 		"urls": [
 			"http://v1.aibuyi.top/downloads/app.asar.gz.1.1.2",
 			"https://v3.aibuyi.top/downloads/app.asar.gz.1.1.2",
-			"https://rawcdn.githack.com/aby-ui/repo-release/10b00e20ba034ae8acec6668c11379ca32dd32cf/app.asar.gz",
 			"https://v3.aibuyi.top/aby-ui/repo-release/raw/36e6180fd54e03982c07d8f91d7e39c30f812375/app.asar.gz"
 		]
 	},
 	"lib": {
 		"version": "1.0.0",
 		"urls": [
-			"https://glcdn.githack.com/abyui/repo-release/raw/33610d1e871ad532517442161fb3e9c1dfb60195/lib.asar.gz",
 			"http://nos.netease.com/163ui/client/33610d1e871ad532517442161fb3e9c1dfb60195/lib.asar.gz",
-			"https://v3.aibuyi.top/aby-ui/repo-release/raw/36e6180fd54e03982c07d8f91d7e39c30f812375/lib.asar.gz",
-			"https://rawcdn.githack.com/aby-ui/repo-release/33610d1e871ad532517442161fb3e9c1dfb60195/lib.asar.gz"
+			"https://v3.aibuyi.top/aby-ui/repo-release/raw/36e6180fd54e03982c07d8f91d7e39c30f812375/lib.asar.gz"
 		]
 	}
 }
