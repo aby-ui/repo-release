@@ -1,8 +1,8 @@
 {
   "repos": {
     "repo-base": {
-      "hash": "f0fec9c6441942a78807d82a68e98487a1ff54a6",
-      "date": "20220224_2049",
+      "hash": "e729d7226fd62fe4619284f2e913be59e6dbca27",
+      "date": "20220225_2137",
       "dirs": [
         "!!!163UI!!!",
         "!!!Libs",
@@ -250,7 +250,8 @@
         "XLoot",
         "XLoot_Frame",
         "XLoot_Master",
-        "XLoot_Options"
+        "XLoot_Options",
+        "ZerethMortisPuzzleHelper"
       ]
     }
   },
