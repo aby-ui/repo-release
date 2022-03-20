@@ -1,8 +1,8 @@
 {
   "repos": {
     "repo-base": {
-      "hash": "60db09231d52521cfb8e8b1c6a60edf5a3069375",
-      "date": "20220317_0145",
+      "hash": "a882e713c36674561d7c4a6552bd10f79e2c96aa",
+      "date": "20220320_0920",
       "dirs": [
         "!!!163UI!!!",
         "!!!Libs",
@@ -175,6 +175,7 @@
         "MasterPlan",
         "MasterPlanA",
         "MeetingStone",
+        "MeetingStoneEX",
         "MerchantEx",
         "MethodDungeonTools",
         "MRT",
