@@ -1,8 +1,8 @@
 {
   "repos": {
     "repo-base": {
-      "hash": "3751a22caf9e013c14a327053e717fedd076d83c",
-      "date": "20220415_2023",
+      "hash": "e56d799d3fcd705c4b9d1c26f15fca8b40b0d6ea",
+      "date": "20220420_0033",
       "dirs": [
         "!!!163UI!!!",
         "!!!Libs",
@@ -93,7 +93,6 @@
         "Details_Streamer",
         "Details_TinyThreat",
         "Details_Vanguard",
-        "DominationSocketHelper",
         "Dominos",
         "Dominos_Cast",
         "Dominos_CastClassic",
@@ -108,7 +107,6 @@
         "EN_UnitFrames",
         "ErrorFilter",
         "EventAlertMod",
-        "ExRT",
         "ExtraActionBar",
         "Fizzle",
         "FriendsMenuXP",
@@ -262,6 +260,8 @@
     "Grail-NPCs-_retail_-zhCN",
     "Grail-Quests-_retail_",
     "Grail-Quests-_retail_-zhCN",
-    "Grail-Reputations-_retail_"
+    "Grail-Reputations-_retail_",
+    "ExRT",
+    "DominationSocketHelper"
   ]
 }
