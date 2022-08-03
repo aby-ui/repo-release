@@ -6,8 +6,8 @@
   ],
   "repos": {
     "repo-base": {
-      "hash": "4a7b5136a7875ebb84891a4de3ff502cf52058fa",
-      "date": "20220702_0142",
+      "hash": "cf7e3056f7a5104536d595cd638e4c4fc984885b",
+      "date": "20220804_0331",
       "dirs": [
         "!!!163UI!!!",
         "!!!Libs",
@@ -56,6 +56,7 @@
         "Comergy_Redux",
         "Comergy_Redux_Options",
         "CompactRaid",
+        "DBM-Affixes",
         "DBM-AntorusBurningThrone",
         "DBM-BfA",
         "DBM-Brawlers",
