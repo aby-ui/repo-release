@@ -1,8 +1,8 @@
 {
   "repos": {
     "repo-base": {
-      "hash": "a6269a747afd94844d6b555e807ec33afea9c6dc",
-      "date": "20221014_0738",
+      "hash": "66832420ad5ff597399ee690420b400670032945",
+      "date": "20221027_0414",
       "dirs": [
         "!!!163UI!!!",
         "!!!Libs",
@@ -62,12 +62,14 @@
         "DBM-Core",
         "DBM-CrucibleofStorms",
         "DBM-DMF",
+        "DBM-DragonIsles",
         "DBM-EmeraldNightmare",
         "DBM-EternalPalace",
         "DBM-GUI",
         "DBM-Nighthold",
         "DBM-Nyalotha",
         "DBM-Party-BfA",
+        "DBM-Party-Dragonflight",
         "DBM-Party-Legion",
         "DBM-Party-Shadowlands",
         "DBM-Party-WoD",
@@ -79,6 +81,7 @@
         "DBM-TombofSargeras",
         "DBM-TrialofValor",
         "DBM-Uldir",
+        "DBM-VaultoftheIncarnates",
         "DBM-VPYike",
         "DBM-WorldEvents",
         "DBM-ZuldazarRaid",
@@ -188,9 +191,9 @@
         "OmniCC_Config",
         "OmniCD",
         "Parrot",
+        "PlexusStatusDungeonDebuff",
         "PlexusStatusRaidDebuff",
         "PlexusStatusRD_BfA",
-        "PlexusStatusRD_Dungeon",
         "PlexusStatusRD_SL",
         "Postal",
         "QuakeAssist",
@@ -265,6 +268,7 @@
     "Grail-Quests-_retail_-zhCN",
     "Grail-Reputations-_retail_",
     "ExRT",
-    "DominationSocketHelper"
+    "DominationSocketHelper",
+    "PlexusStatusRD_Dungeon"
   ]
 }
