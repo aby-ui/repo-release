@@ -6,8 +6,8 @@
   ],
   "repos": {
     "repo-base": {
-      "hash": "0839498d6912807635e65d4d24818643f385484a",
-      "date": "20221029_2215",
+      "hash": "dbc3783a60f98569901d640797f90f9610b73ef7",
+      "date": "20221030_0327",
       "dirs": [
         "!!!163UI!!!",
         "!!!Libs",
@@ -181,6 +181,7 @@
         "Masque_Onyx",
         "Masque_Parabole",
         "Masque_Serenity",
+        "Masque_Shadow",
         "MasterPlan",
         "MasterPlanA",
         "MeetingStone",
