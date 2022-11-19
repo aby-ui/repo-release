@@ -1,8 +1,8 @@
 {
   "repos": {
     "repo-base": {
-      "hash": "781d488bfa852b61e3c2da50e0c7fc16e534d300",
-      "date": "20221118_0243",
+      "hash": "825048be7b0f24b320970d5393326509b4628c74",
+      "date": "20221119_1201",
       "dirs": [
         "!!!163UI!!!",
         "!!!Libs",
@@ -22,6 +22,8 @@
         "AbyEncounterLootPlus",
         "Accountant_Classic",
         "AchievementsReminder",
+        "AdiBags",
+        "AdiBags_Config",
         "AngryKeystones",
         "AtlasLootReverse",
         "AutoTurnIn",
@@ -48,8 +50,6 @@
         "Cell",
         "ChatFilter",
         "ChocolateBar",
-        "Combuctor",
-        "Combuctor_Config",
         "Comergy_Redux",
         "Comergy_Redux_Options",
         "CompactRaid",
@@ -273,6 +273,8 @@
     "ExRT",
     "DominationSocketHelper",
     "PlexusStatusRD_Dungeon",
-    "163UI_Buff"
+    "163UI_Buff",
+    "Combuctor",
+    "Combuctor_Config"
   ]
 }
