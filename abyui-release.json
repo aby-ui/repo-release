@@ -1,8 +1,8 @@
 {
   "repos": {
     "repo-base": {
-      "hash": "22b1150155e047960ba6a14bc14c9be8479931da",
-      "date": "20221123_1146",
+      "hash": "a5cbd2b70188c0f21f4f560dbf21f9da55aef9b7",
+      "date": "20221125_1741",
       "dirs": [
         "!!!163UI!!!",
         "!!!Libs",
@@ -107,7 +107,7 @@
         "Dominos_Encounter",
         "Dominos_Progress",
         "Dominos_Roll",
-        "Dresser",
+        "DressingSlots",
         "DuowanChat",
         "Ellipsis",
         "Ellipsis_Options",
@@ -274,6 +274,7 @@
     "DominationSocketHelper",
     "PlexusStatusRD_Dungeon",
     "163UI_Buff",
+    "Dresser",
     "Combuctor",
     "Combuctor_Config"
   ]
