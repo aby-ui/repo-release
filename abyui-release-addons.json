@@ -6,8 +6,8 @@
   ],
   "repos": {
     "repo-base": {
-      "hash": "4d023601464d6538008e0e1a0f38308205885d90",
-      "date": "20221126_2047",
+      "hash": "54f1454f7b1cad86c5208e4eb0d6e8c9bf10c734",
+      "date": "20221128_1607",
       "dirs": [
         "!!!163UI!!!",
         "!!!Libs",
@@ -157,6 +157,7 @@
         "HandyNotes_BattleForAzeroth",
         "HandyNotes_CovenantSanctum",
         "HandyNotes_DraenorTreasures",
+        "HandyNotes_Dragonflight",
         "HandyNotes_DungeonLocations",
         "HandyNotes_HallowsEnd",
         "HandyNotes_LegionRaresTreasures",
