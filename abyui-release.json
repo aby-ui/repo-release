@@ -1,8 +1,8 @@
 {
   "repos": {
     "repo-base": {
-      "hash": "fb4c03e5d4d525d806db89dca27f4b4f591ca052",
-      "date": "20221129_2208",
+      "hash": "32853f3b1549abe012ab509b8c47222b70275c20",
+      "date": "20221201_0437",
       "dirs": [
         "!!!163UI!!!",
         "!!!Libs",
@@ -161,6 +161,7 @@
         "HandyNotes_Shadowlands",
         "HandyNotes_SummerFestival",
         "HandyNotes_SuramarTelemancy",
+        "HandyNotes_Valdrakken",
         "HHTD",
         "HPetBattleAny",
         "Kib_QuestMobs",
