@@ -1,8 +1,8 @@
 {
   "repos": {
     "repo-base": {
-      "hash": "ecc33688db58dd823219fbb9cff069980c48d93d",
-      "date": "20221207_0344",
+      "hash": "65e6f9efd059d9979ef304e715a08892ff487ad5",
+      "date": "20221210_0211",
       "dirs": [
         "!!!163UI!!!",
         "!!!Libs",
@@ -92,7 +92,7 @@
         "Decursive",
         "DejaCharacterStats",
         "Details",
-        "Details_Covenants",
+        "Details_Compare2",
         "Details_DataStorage",
         "Details_EncounterDetails",
         "Details_ExplosiveOrbs",
@@ -104,7 +104,6 @@
         "Dominos_Cast",
         "Dominos_CastClassic",
         "Dominos_Config",
-        "Dominos_Encounter",
         "Dominos_Progress",
         "Dominos_Roll",
         "DressingSlots",
@@ -277,6 +276,8 @@
     "PlexusStatusRD_Dungeon",
     "163UI_Buff",
     "Dresser",
+    "Dominos_Encounter",
+    "Details_Covenants",
     "Combuctor",
     "Combuctor_Config"
   ]
