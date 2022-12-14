@@ -6,8 +6,8 @@
   ],
   "repos": {
     "repo-base": {
-      "hash": "3fcc2b0d8621051f988381b80623b37ff24c5ccb",
-      "date": "20221212_2200",
+      "hash": "d2fb75ffd64cbc8e6e95b2ac5e01a6d9a4c138af",
+      "date": "20221215_0208",
       "dirs": [
         "!!!163UI!!!",
         "!!!Libs",
@@ -25,6 +25,7 @@
         "AbyBossGuide",
         "AbyBuff",
         "AbyEncounterLootPlus",
+        "AbyTeamStats",
         "Accountant_Classic",
         "AchievementsReminder",
         "AdiBags",
